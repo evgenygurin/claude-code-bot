@@ -1,0 +1,12 @@
+anthropic
+pydantic>=2.0.0
+asyncio
+aiofiles
+pytest
+pytest-asyncio
+pytest-mock
+black
+isort
+flake8
+mypy
+types-aiofiles
